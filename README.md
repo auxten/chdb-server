@@ -2,6 +2,8 @@
 
 This project is a Go-based web server that integrates with the [chDB-go](https://github.com/chdb-io/chdb-go) and provides a web interface for executing database queries. It embeds the static file `play.html` directly within the binary for easy distribution and deployment.
 
+![chDB Server](doc/demo.png)
+
 ## Features
 
 - **Query Execution**: Allows users to execute queries against a CHDB database.
